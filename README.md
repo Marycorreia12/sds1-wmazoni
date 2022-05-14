@@ -70,9 +70,3 @@ yarn install
 yarn start
 ```
 
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
-
